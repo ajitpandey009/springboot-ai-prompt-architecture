@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: springboot-ai-prompt-architecture
+
+server:
+  port: 8080
+
+openai:
+  api:
+    key: sk-your-real-key-here
